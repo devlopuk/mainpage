@@ -1,0 +1,57 @@
+body
+{
+background-color:#293462;
+font-family: 'Josefin Sans', sans-serif;
+color:#FFFFFF;
+text-align: center;
+font-size:20px;
+margin:auto;
+width: auto;
+height: auto;
+letter-spacing: -3px;
+text-decoration: none;
+border:solid;
+border-width: 0px;
+}
+
+.heading
+{
+  font-weight: bold;
+  font-size:60px;
+  background-color: #f7be16;
+  padding: 10px;
+  text-shadow: 3px 2px #000000;
+}
+  .uline
+  {
+    text-decoration: underline;
+  }
+
+.picture
+{
+  background-color: #00818a;
+  padding: auto;
+  height: 190px;
+}
+.picture-code
+{
+  background-color: #00818a;
+  padding: auto;
+  height: 80px;
+}
+.maintext
+{
+font-size:30px;
+background-color: #216583;
+padding: 10px;
+position:relative;
+height:20px;
+
+}
+
+.myskills
+{
+font-size:30px;
+background-color: #00818a;
+padding: 10px;
+}
